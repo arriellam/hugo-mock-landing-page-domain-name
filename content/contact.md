@@ -8,8 +8,8 @@ menu:
 
 # Contact
 
-GitHub: https://github.com/arriellam
+[GitHub](https://github.com/arriellam)
 
-Email: arriella@seas.upenn.edu
+[Email](arriella@seas.upenn.edu)
 
 [Open an issue](https://github.com/arriellam/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
